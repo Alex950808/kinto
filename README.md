@@ -4,7 +4,7 @@
 
 Heroku上部署v2ray，可更改传输协议vmess和vless，默认是vmess传输，部署时在v2ray protocol选项框改成你喜欢的协议即可．
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/yeahwu/kinto)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Alex950808/kinto)
 
 #### 部署服务端
 
@@ -25,7 +25,7 @@ Heroku上部署v2ray，可更改传输协议vmess和vless，默认是vmess传输
 
 端口(port) : 80
 
-用户ID(uuid) : c95ef1d4-f3ac-4586-96e9-234a37dda068
+用户ID(uuid) : 8a23c0b0-f563-11ea-adc1-0242ac120002
 
 加密方式(security) : aes-128-gcm
 
@@ -60,7 +60,7 @@ Heroku上部署v2ray，可更改传输协议vmess和vless，默认是vmess传输
             "port": 443,
             "users": [
               {
-                "id": "c95ef1d4-f3ac-4586-96e9-234a37dda068"
+                "id": "8a23c0b0-f563-11ea-adc1-0242ac120002"
               }
             ]
           }
